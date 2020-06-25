@@ -8,9 +8,9 @@
 ## My projects
 
   **1) From individuals to communities: understanding the effects of habitat loss and fragmentation on movement and the dynamics of populations and communities.**
-  <p> 
+   <br />
 
   **2) Understanding the determining mechanisms of the landscape scale of effect.**
-  <p>
+   <br />
    
   ## Other projects
