@@ -25,9 +25,9 @@ menu:
     icon: ""
 
   # _portfolio
-  - scope:
+  - text: Portifolio
       path: ""
-      type: "_Portfolio"
+      type: _Portfolio
     values:
       layout: single
            
