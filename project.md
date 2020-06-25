@@ -2,7 +2,7 @@
 ---
 
 # Academic projects
-   <br />
+
    *Below are the research projects in which I am currently developing and collaborating.*
     <br />
 ## My projects
@@ -13,4 +13,7 @@
   **2) Understanding the determining mechanisms of the landscape scale of effect.**
    <br />
    
-  ## Other projects
+## Other projects
+
+   **1) The importance of the Cerrado for agriculture: Remnants of natural vegetation as reservoirs of natural enemies of pests**
+    <br />
