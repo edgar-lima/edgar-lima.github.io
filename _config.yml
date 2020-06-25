@@ -23,13 +23,13 @@ menu:
   - text: Resume
     link: /
     icon: ""
-
-  # _portfolio
+    
   - text: Portifolio
       path: ""
-      type: _Portfolio
+      link: /_Portfolio
     values:
       layout: single
+      icon: ""
            
   - text: Academic projects
     link: /project
