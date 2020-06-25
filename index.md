@@ -6,8 +6,9 @@ layout: default
 
 ### Who am I?
   Hi, my name is Edgar Luiz de Lima, I am BSc. in Ecology and Environmental Analysis, MSc. in Natural Resources of the Cerrado (Environmental Sciences) and PhD student in Ecology. 
-  I am currently working as a researcher in ecology, data analyst and scientific communicator.
-
+  I am currently working as a researcher in the Theory, Metacommunity and Landscape Ecology Laboratory at Universidade Federal de Goiás. I also develop work as a data analyst and 
+  scientific communicator.
+  
 ### My research interests
 
   In the theoretical field, I work with spatial ecology. Specifically, I am interested in how organisms interact with the landscape and how it affects their movement. In  applied 
