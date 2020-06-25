@@ -6,8 +6,8 @@ defaults:
     values:
       layout: default
 
-title: Christian Ezeani
-subtitle: Full-Stack Developer
+title: Edgar Luiz de Lima
+subtitle: Ecologist and Data Analyst. Theoretical Ecology researcher, PhD student in Ecology. 
 
 # left_side:
 #   background_image: "./assets/images/left-background.jpg"
@@ -20,7 +20,7 @@ footer:
 
 # Side Menu Links
 menu:
-  - text: Portfolio
+  - text: Resume
     link: /
     icon: ""
 
