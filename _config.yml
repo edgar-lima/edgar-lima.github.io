@@ -39,20 +39,20 @@ menu:
 # Socialmedia Icons
 social_icons:
   - name: linkedin
-    link: https://www.linkedin.com/christianezeani
+    link: https://www.linkedin.com/in/edgar-luiz-de-lima-35646851/
     icon: fab fa-linkedin
 
   - name: github
-    link: https://github.com/christianezeani
+    link: https://github.com/edgar-lima
     icon: fab fa-github-square
 
-  - name: facebook
-    link: https://www.facebook.com/christian.ezeani.cyb
-    icon: fab fa-facebook-square
-
   - name: twitter
-    link: https://www.twitter.com/christianezeani
+    link: https://twitter.com/EdgarLuizdelim1
     icon: fab fa-twitter
+    
+    - name: orcid  
+      link: https://orcid.org/0000-0002-3459-9248
+      icon: fab fa-orcid
 
 
     
