@@ -25,15 +25,12 @@ menu:
     icon: ""
 
   # _portfolio
-  - name: _Portifolio
+  - name: Portifolio
       path: ""
-      type: Portfolio
+      type: _Portfolio
     values:
       layout: single
-      author_profile: true
-      share: true
-      comment: true
-      
+           
   - text: Academic projects
     link: /project
     icon: ""
