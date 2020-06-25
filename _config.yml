@@ -35,7 +35,7 @@ menu:
     layout: default
     
   - text: Curriculum vitae
-    link: /resume
+    link: /cv
     icon: ""
 
 # Socialmedia Icons
