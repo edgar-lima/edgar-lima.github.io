@@ -10,7 +10,7 @@
   <br />
   <br />
 ## Scientific production 
-   Below are my main academic productions. [To access my academic curriculum click here](http://lattes.cnpq.br/4212442195307082)
+   Below are my main academic productions, click [here](http://lattes.cnpq.br/4212442195307082) to access my full academic curriculum.
     
   Brasil, L. S., de Lima, E. L., Spigoloni, Z. A., Ribeiro-Brasil, D. R. G., & Juen, L. (2020). The habitat integrity index and aquatic insect communities in tropical streams: A  
   meta-analysis. Ecological Indicators, 116, 106495.
