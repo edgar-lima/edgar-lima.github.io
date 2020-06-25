@@ -28,11 +28,11 @@ menu:
     link: /Portifolio
     icon: ""
 
-  - text: Contact Me
-    link: /contact
+  - text: Academic projects
+    link: /project
     icon: ""
 
-  - text: My Resume
+  - text: CV
     link: /resume
     icon: ""
 
