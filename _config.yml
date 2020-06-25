@@ -50,7 +50,9 @@ social_icons:
     link: https://twitter.com/EdgarLuizdelim1
     icon: fab fa-twitter
     
-    orcid: "http://orcid.org/0000-0003-2791-8383"
+  - name: orcid
+    link: https://orcid.org/0000-0002-3459-9248
+    icon: fab fa-orcid
 
 
     
