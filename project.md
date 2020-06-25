@@ -3,8 +3,14 @@
 
 # Academic projects
    <br />
-   *Below are the research projects in which I am currently developing and collaborating*
+   *Below are the research projects in which I am currently developing and collaborating.*
     <br />
 ## My projects
 
-  De indivíduos à comunidades: entendendo os efeitos da perda e fragmentação de habitat sobre movimentação e a dinâmica das populações e comunidades
+  **1) From individuals to communities: understanding the effects of habitat loss and fragmentation on movement and the dynamics of populations and communities.**
+  <p> 
+
+  **2) Understanding the determining mechanisms of the landscape scale of effect.**
+  <p>
+   
+  ## Other projects
