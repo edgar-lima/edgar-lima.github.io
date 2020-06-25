@@ -24,10 +24,16 @@ menu:
     link: /
     icon: ""
 
-  - text: Portifolio
-    link: /Portifolio
-    icon: ""
-
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+      
   - text: Academic projects
     link: /project
     icon: ""
