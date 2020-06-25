@@ -24,12 +24,11 @@ menu:
     link: /
     icon: ""
     
-  - text: Portifolio
-    path: ""
-    type: _Portfolio
+    - text: Portifolio
+    link: /portifolio
     icon: ""
-    layout: default  
-      
+    layout: default
+     
   - text: Academic projects
     link: /project
     icon: ""
