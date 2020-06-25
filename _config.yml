@@ -26,7 +26,7 @@ menu:
     
   - text: Portifolio
     path: ""
-    link: /_Portfolio
+    type: /_Portfolio
     icon: ""
            
   - text: Academic projects
