@@ -25,18 +25,17 @@ menu:
     icon: ""
     
   - text: Portifolio
-    path: ""
-    type: _Portfolio
+    link: /portifolio
     icon: ""
-    layout: default  
-      
+    layout: default
+     
   - text: Academic projects
     link: /project
     icon: ""
     layout: default
     
   - text: Curriculum vitae
-    link: /resume
+    link: /cv
     icon: ""
 
 # Socialmedia Icons
