@@ -1,5 +1,0 @@
----
----
-
-# Academic projects
-
