@@ -17,5 +17,4 @@ science, my research is focused on ecological indicators and the application of 
 ### Skills and tools
 The tools used by me to develop my work include mathematical and statistical models, systematic reviews as well as scientometrics and meta-analysis. In my theoretical research 
 I use hybrid simulation models, which include agent-based models, cellular automata and machine learning. In my work I prefer to use free software such as Qgis, to perform 
-analysis and develop models and other solutions I use Python and R programming languages. 
- 
+analysis and develop models and other solutions I use Python and R programming languages.
