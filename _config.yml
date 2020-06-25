@@ -24,7 +24,7 @@ menu:
     link: /
     icon: ""
     
-    - text: Portifolio
+  - text: Portifolio
     link: /portifolio
     icon: ""
     layout: default
