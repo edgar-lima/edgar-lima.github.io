@@ -27,7 +27,7 @@ menu:
   # _portfolio
   - scope:
       path: ""
-      type: portfolio
+      type: Portfolio
     values:
       layout: single
       author_profile: true
