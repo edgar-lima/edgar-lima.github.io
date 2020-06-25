@@ -27,7 +27,7 @@ menu:
   # _portfolio
   - scope:
       path: ""
-      type: _Portfolio
+      type: "_Portfolio"
     values:
       layout: single
            
