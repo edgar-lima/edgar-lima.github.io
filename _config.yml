@@ -25,13 +25,15 @@ menu:
     icon: ""
     
   - text: Portifolio
+    path: ""
     link: /_Portfolio
     icon: ""
            
   - text: Academic projects
     link: /project
     icon: ""
-
+    layout: default
+    
   - text: Curriculum vitae
     link: /resume
     icon: ""
