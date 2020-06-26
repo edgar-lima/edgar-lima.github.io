@@ -49,5 +49,5 @@ social_icons:
     icon: fab fa-twitter
   
   - name: e-mail
-    link: edgarluizdelima@gmailcom
+    link: "edgarluizdelima@gmailcom"
     icon: fab fa-google
