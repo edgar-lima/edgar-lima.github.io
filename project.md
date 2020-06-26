@@ -1,6 +1,5 @@
 ---
 ---
- your-text-here </div>
 
 # Academic projects
 
