@@ -16,8 +16,13 @@
   results, I will systematically review the movement ecology literature for birds and then test my hypotheses using a meta-analytical approach. </div>
      
   **2) Understanding the determining mechanisms of the landscape scale of effect.**
-   <br />
-   
+ <br />
+    < div style= “text-align: justify”> Ecological studies rely on an appropriate choice for the spatial scale at which we measure environmental data to relate to ecological 
+    processes. A common practice in landscape ecology is to measure response variables (e.g., species richness or abundance) in a focal patch and some possible explanatory 
+    variables (e.g., environmental conditions, vegetation measures or landscape structure) at the higher spatial extents (landscape scale). However, what spatial extent (hereafter 
+    scale) surrounding focal patch we should measure explanatory variables is not easy, this is because each species perceives the environment on a different scale. I aim to 
+    understand the mechanisms that determine the scale of effect using using theoretical and empirical approaches. </div>
+    
 ## Other projects
 
    **1) The importance of the Cerrado for agriculture: Remnants of natural vegetation as reservoirs of natural enemies of pests**
