@@ -32,12 +32,8 @@ menu:
   - text: Academic projects
     link: /project
     icon: ""
-    layout: default
-    
-  - text: Curriculum vitae
-    link: /cv
-    icon: ""
-
+    layout: default 
+ 
 # Socialmedia Icons
 social_icons:
   - name: linkedin
