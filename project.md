@@ -25,5 +25,11 @@
     
 ## Other projects
 
-   **1) The importance of the Cerrado for agriculture: Remnants of natural vegetation as reservoirs of natural enemies of pests**
-    <br />
+  **1) The importance of the Cerrado for agriculture: Remnants of natural vegetation as reservoirs of natural enemies of pests**
+ <br />
+  <div style="text-align: justify">The remnants of natural vegetation can offer several environmental services that optimize agricultural production, such as water control, 
+  pollination and natural pest control. In the latter case, the remnants of natural vegetation favor the maintenance of natural enemies by offering various resources to these 
+  organisms, which in turn, can migrate to surrounding agriculture and naturally regulate pest populations in crops. The objective of the present project is to test the role of 
+  the Cerrado remnants in the natural pest control in soybean and rubber tree crops. In the present project, I am collaborating with the study group that evaluates the 
+  environmental service of pest control at the landscape scale. 
+  **This project received funding from the Fundação de Amparo a Pesquisa de Goiás.** </div>
