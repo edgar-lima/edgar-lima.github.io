@@ -15,7 +15,7 @@
   of energy and nutrientes. The goal of this project is asses how habitats loss and fragmentation affects the indviduals movement, and what is its impact on individuals, 
   populations and communities. To answer these questions, I will use Individual-based models to simulate different scenarios of habitat loss and fragmentation, and to validate my 
   results, I will systematically review the movement ecology literature for birds and then test my hypotheses using a meta-analytical approach. </div>
-   <br />   
+     
   **2) Understanding the determining mechanisms of the landscape scale of effect.**
    <br />
    
