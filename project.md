@@ -32,4 +32,4 @@
   organisms, which in turn, can migrate to surrounding agriculture and naturally regulate pest populations in crops. The objective of the present project is to test the role of 
   the Cerrado remnants in the natural pest control in soybean and rubber tree crops. In the present project, I am collaborating with the study group that evaluates the 
   environmental service of pest control at the landscape scale. </div>
-  **This project is coordenate by Prof. Rodrigo Damasco Daud, and received funding from the Fundação de Amparo a Pesquisa de Goiás.** 
+  *This project is coordinated by the professor Rodrigo Damasco Daud and received funding from the Fundação de Amparo a Pesquisa de Goiás.* 
