@@ -68,7 +68,7 @@ left_side:
 
 ```yml
 left_side:
-  background_image: "./assets/images/left-background.jpg"
+  background_image: "./assets/images/left-image2.jpg"
   background_color: "#F00"
   close_button_color: "#F00"
   text_color: "#F00"
