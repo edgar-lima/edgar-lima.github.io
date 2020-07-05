@@ -1,7 +1,7 @@
 ---
 ---
 
-# Portifolio
+# Portfolio
 
 ## Data analyst projects
   <br />
