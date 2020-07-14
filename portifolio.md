@@ -4,7 +4,7 @@
 # Portfolio
 
 ## Data analyst projects
-  [EcoQuant](https://medium.com/ecoquant) is a blog where I write about Quantitative Ecology, Data analysis and Data Science. 
+  [EcoQuant](https://medium.com/ecoquant): a blog where I write about Quantitative Ecology, Data analysis and Data Science. 
   <br />
 ## Scientific communication 
   <br />
