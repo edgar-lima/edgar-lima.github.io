@@ -51,7 +51,4 @@ social_icons:
   - name: medium
     link: https://medium.com/@edgarluizdelima
     icon: fab fa-medium
-    
- - name: researchgate
-    link: https://www.researchgate.net/profile/Edgar_Luiz_De_Lima
-    icon: fab fa-researchgate  
+ 
