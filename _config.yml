@@ -9,9 +9,9 @@ defaults:
 title: Edgar Luiz de Lima
 subtitle: Ecologist and Data Analyst. Theoretical Ecology researcher, PhD student in Ecology. 
 
-# left_side:
-#   background_image: "./assets/images/image2.jpg"
-#   background_color: "#EEE9E9"
+left_side:
+  background_image: "./assets/images/image2.jpg"
+  background_color: "#FFFAFA"
 #   close_button_color: "#F00"
 #   text_color: "#F00"
 
