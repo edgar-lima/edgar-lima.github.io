@@ -5,6 +5,7 @@
 
 ## Data analyst projects
   <br />
+  [EcoQuant](https://medium.com/ecoquant) is a blog where I write about Quantitative Ecology, Data analysis and Data Science. 
   <br />
 ## Scientific communication 
   <br />
